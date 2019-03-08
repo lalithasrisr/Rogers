@@ -1,0 +1,21 @@
+.container{
+    margin: 0px,400px,0px,400px;
+}
+.btn, .btn-primary, input {
+    background-color: #f32e5b;
+    border: 1px solid #e10d3d;
+    color: white;
+    padding: 0.5em;
+    transition: all 0.2s;
+}
+.list-group-item{
+    border: 0rem
+
+}
+.form-control{
+    width: 30%;
+    border: 1px solid #e10d3d;
+}
+a,a:hover{
+    color:#e10d3d;
+}
